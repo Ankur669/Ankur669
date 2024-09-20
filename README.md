@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ankur669
 - 👀 I’m interested in freelancing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning web3 development 
+- 💞️ I’m looking to collaborate on web3
+- 📫 How to reach me @annkurss
+- 😄 Pronouns: he/him
 
 <!---
 Ankur669/Ankur669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
