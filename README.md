@@ -34,14 +34,17 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ankur669&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur669&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur669&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur669&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur669&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur669&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
