@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Ankur Soni  
+<h1 align="center">👋 Hello</h1>
+<h1 align="center">I'm Ankur Soni</h1>  
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h2 align="center">I am a **Software Developer & AI Enthusiast** passionate about building memory‑efficient projects, integrating AI, and exploring compiler design & digital image processing.</h2>
