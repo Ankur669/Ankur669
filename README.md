@@ -24,24 +24,9 @@
 </p>
 
 ---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ankur669&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Ankur669&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
 
-## 📊 Language Usage
-Here’s an overview of the languages I use most across my repositories:
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankur669&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ankur669&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur669&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
