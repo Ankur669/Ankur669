@@ -1,16 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Ankur Soni</h1>
 <h3 align="center">Software Developer | AI Enthusiast | Frontend Specialist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently enhancing my expertise in **Compiler Design** & **Digital Image Processing**  
-- 🚀 Building **memory‑efficient projects** with modern **AI integration**  
-- 🎯 Preparing a structured roadmap for **GATE 2027 (CSE)**  
+- 🌱 Currently enhancing my expertise in **Web Development** & **AI**  
+- 🚀 Building **memory‑efficient projects** with modern **AI integration**   
 - 💡 Passionate about combining **theory with practical solutions**  
 
 ---
