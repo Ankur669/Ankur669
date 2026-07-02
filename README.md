@@ -1,4 +1,4 @@
-
+![Banner](github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Ankur Soni</h1>
 <h3 align="center">Software Developer | AI Enthusiast | Frontend Specialist</h3>
 
